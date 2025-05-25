@@ -3,7 +3,7 @@ name: Test Email Action
 on:
   push:
     branches:
-      - main  # Or 'master' or whichever branch you want
+      - master  # Or 'master' or whichever branch you want
 
 jobs:
   test:
